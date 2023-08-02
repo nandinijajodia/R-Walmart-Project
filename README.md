@@ -18,12 +18,13 @@ Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13 Labour Day: 10-Sep-10, 9-S
 5.  Provide a monthly and semester view of sales in units and give insights
 6.  For Store 1 – Build prediction models to forecast demand. Hypothesize if CPI, unemployment, and fuel price have any impact on sales.
 
-# Data available: We have historical data available which covers sales from 2010-02-05 to 2012-11-01, in the file Walmart Store sales. This file has following fields:
- Store - the store number
- Date - the week of sales
- Weekly Sales - sales for the given store
- Holiday Flag - whether the week is a special holiday week 1 – Holiday week 0 – Non-holiday week
- Temperature - Temperature on the day of sale
- Fuel Price - Cost of fuel in the region
- CPI - Prevailing consumer price index
- Unemployment - Prevailing unemployment rate
+# Data available: 
+We have historical data available which covers sales from 2010-02-05 to 2012-11-01, in the file Walmart Store sales. This file has following fields:
+- Store - the store number
+- Date - the week of sales
+- Weekly Sales - sales for the given store
+- Holiday Flag - whether the week is a special holiday week 1 – Holiday week 0 – Non-holiday week
+- Temperature - Temperature on the day of sale
+- Fuel Price - Cost of fuel in the region
+- CPI - Prevailing consumer price index
+- Unemployment - Prevailing unemployment rate
